@@ -12,3 +12,11 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - How to check input lengths.
 - How to check password match.
 - How to get a field name and capitalize the first letter of an input.
+
+## Features
+
+- Username validation.
+- Email validation (Regex).
+- Password match and validation.
+- Form event listener.
+- First letter capitalization.
