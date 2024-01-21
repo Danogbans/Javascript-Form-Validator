@@ -20,3 +20,9 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - Password match and validation.
 - Form event listener.
 - First letter capitalization.
+
+## Tech Stack
+
+- HTML
+- CSS
+- VANILLA JAVASCRIPT
