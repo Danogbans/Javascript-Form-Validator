@@ -26,3 +26,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - HTML
 - CSS
 - VANILLA JAVASCRIPT
+
+## Acknowledgements
+
+ - Tutorial by: Brad Traversy
