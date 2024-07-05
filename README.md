@@ -19,7 +19,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - Email validation (Regex).
 - Password match and validation.
 - Form event listener.
-- First letter capitalization.
+- First letter capitalization. 
 
 ## Tech Stack
 
