@@ -11,7 +11,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - How to validate email field using Regular Expression (Regex).
 - How to check input lengths.
 - How to check password match.
-- How to get a field name and capitalize the first letter of an inpu
+- How to get a field name and capitalize the first letter of an input.
 
 ## Features
 
