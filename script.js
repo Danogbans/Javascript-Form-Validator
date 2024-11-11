@@ -9,7 +9,7 @@ const password2 = document.getElementById('password2');
 
 // Show input error and success message
 // Create a function called showError.
-// Create a variable inside the showError function which will get the parent element of the input elemen
+// Create a variable inside the showError function which will get the parent element of the input element
 // Get a class name ('form-control error') of the input parent element.
 // Use querySelector to get html tag element (small) from formControl.
 
